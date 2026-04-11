@@ -30,6 +30,6 @@ If you have any questions or suggestions, contact us:
 📧 Email: iarsoftofficial@gmail.com
 Developer Information
 App Name: Nazmify – Urdu Poetry
-Developer: Rashid Khan Tech
+Developer: Iarsoft official
 Tech Development Credits
 Development contribution and support provided by Arif Ullah.
